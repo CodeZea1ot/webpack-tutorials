@@ -1,0 +1,12 @@
+@font-face {
+  font-family: "Benne-Regular";
+  src: url("./Benne-Regular.ttf") format("ttf");
+  font-weight: 600;
+  font-style: normal;
+}
+
+.hello {
+  color: red;
+  font-family: "Benne-Regular";
+  background: url("./icon.png");
+}
